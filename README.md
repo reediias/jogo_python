@@ -9,7 +9,7 @@ meu_jogo/ (pasta principal)
 game.py (arquivo principal do jogo)
 
 **Como Rodar?**
-Instale as bibliotecas necessárias (se precisar):
+Instale as bibliotecas necessárias (se não tiver instaladas):
       pip install pgzero
       random
       rect do pygame
