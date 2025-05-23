@@ -1,4 +1,4 @@
-**Meu Jogo**
+#Meu Jogo
 Um jogo feito em PGame0 com Python.
 
 **📂 Estrutura de pastas:**
